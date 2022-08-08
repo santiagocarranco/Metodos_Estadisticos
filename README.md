@@ -4,7 +4,8 @@ Curso de Métodos Estadísticos Semestre Agosto - Diciembre 2022
 ## Contenido 
 
 SEMANA 1:
-08/08/2022: Clase inicial, Presentacion del curso
+08/08/2022: Clase inicial, Presentacion del curso.
+10/08/2022: Clase en sala de computacion.
 
 SEMANA 2:
 
